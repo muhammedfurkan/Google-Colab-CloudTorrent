@@ -8,7 +8,17 @@
 - [x] Simple Torrent, peerflix-server and deluge remote torrent client
 - [x] Using ngrok to publish public server
 - [x] Upload data to MEGA/Google Drive (Account require)
-- [x] Using curl direct link downloader (Share link supported gdrive,disk.yandex)
+- [x] aria2 RPC and ariang WEBUI
+- [x] Using aria2 direct link downloader (Share link supported gdrive,disk.yandex, youtube ... etc)
+- [x] rclone
+- [x] Jdownloader
+- [x] Youtube-dl
+- [x] Extracte/Archive Zip/Tar/Rar
+- [x] Netdata
+- [x] Cloud Commander
+- [x] Ssh and noVnc
+
+
 
 # Usage
 1. Click on the "Open in Colab" button.
